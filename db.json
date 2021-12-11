@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 1,
+        "Name": "Falcon",
+        "SpeedPerSecond": 7000,
+        "Capacity": 60,
+        "Status": "Wolny" 
+    },
+    {
+        "Id": 2,
+        "Name": "Falcon",
+        "SpeedPerSecond": 7000,
+        "Capacity": 60,
+        "Status": "Wolny" 
+    },
+    {
+        "Id": 3,
+        "Name": "Falcon",
+        "SpeedPerSecond": 7000,
+        "Capacity": 60,
+        "Status": "Wolny" 
+    },
+    {
+        "Id": 4,
+        "Name": "Falcon",
+        "SpeedPerSecond": 7000,
+        "Capacity": 60,
+        "Status": "Wolny" 
+    },
+    {
+        "Id": 5,
+        "Name": "Falcon",
+        "SpeedPerSecond": 7000,
+        "Capacity": 60,
+        "Status": "Wolny" 
+    }
+]
