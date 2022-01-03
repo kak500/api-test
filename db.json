@@ -16,7 +16,8 @@
                                     "CostPerUnit": 3.10
                                  }],
             "Status": "Oczekujący",
-            "StartDate": "24-02-2021"
+            "StartDate": "24-02-2021",
+            "Price": 6832
         },
         {
             "Id": 2,
