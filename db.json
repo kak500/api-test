@@ -3,14 +3,14 @@
         {
             "Id": 1,
             "Client": "John Doe",
-            "OrderedMaterials": ["Węgiel", "Lit", "Uran"],
+            "OrderedMaterials": [{"Name": "Węgiel"}, {"Name": "Lit"}, {"Name": "Uran"}],
             "Status": "Oczekujący",
             "StartDate": "24-02-2021"
         },
         {
             "Id": 2,
             "Client": "Jane Doe",
-            "OrderedMaterials": ["Kadm", "Lit", "Uran"],
+            "OrderedMaterials": [{"Name": "Kadm"}, {"Name": "Lit"}, {"Name": "Uran"}],
             "Status": "W trakcie",
             "StartDate": "14-10-2021"
         }
