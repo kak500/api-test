@@ -25,7 +25,27 @@
             "OrderedMaterials": [{"Name": "Kadm"}, {"Name": "Lit"}, {"Name": "Uran"}],
             "Status": "W trakcie",
             "StartDate": "14-10-2021"
-        }
+        },
+        {
+            "Id": 3,
+            "Client": "Johny Doe",
+            "OrderedMaterials": [{"Name": "Wodór",
+                                  "OrderedAmount": 1200,
+                                  "CostPerUnit": 4.20
+                                 }, 
+                                 {"Name": "Tytan",
+                                  "OrderedAmount": 200,
+                                  "CostPerUnit": 2.45
+                                 }, 
+                                 {  "Name": "Vibranium",
+                                    "OrderedAmount": 420,
+                                    "CostPerUnit": 3.10
+                                 }],
+            "Status": "Oczekujący",
+            "StartDate": "24-02-2021",
+            "Price": 6832
+        },
+        
     ],
     
     "rockets": [
