@@ -3,7 +3,18 @@
         {
             "Id": 1,
             "Client": "John Doe",
-            "OrderedMaterials": [{"Name": "Węgiel"}, {"Name": "Lit"}, {"Name": "Uran"}],
+            "OrderedMaterials": [{"Name": "Węgiel",
+                                  "OrderedAmount": 1200,
+                                  "CostPerUnit": 4.20
+                                 }, 
+                                 {"Name": "Lit",
+                                  "OrderedAmount": 200,
+                                  "CostPerUnit": 2.45
+                                 }, 
+                                 {  "Name": "Uran",
+                                    "OrderedAmount": 420,
+                                    "CostPerUnit": 3.10
+                                 }],
             "Status": "Oczekujący",
             "StartDate": "24-02-2021"
         },
