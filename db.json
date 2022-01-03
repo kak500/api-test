@@ -1,24 +1,21 @@
 {
-    "orders":[
+    "orders": [
         {
             "Id": 1,
             "Client": "John Doe",
-            "OrderedMaterials": [
-                "Węgiel", "Lit", "Uran"
-            ],
+            "OrderedMaterials": ["Węgiel", "Lit", "Uran"],
             "Status": "Oczekujący",
             "StartDate": "24-02-2021"
         },
         {
             "Id": 2,
             "Client": "Jane Doe",
-            "OrderedMaterials": [
-                "Kadm", "Lit", "Uran"
-            ],
+            "OrderedMaterials": ["Kadm", "Lit", "Uran"],
             "Status": "W trakcie",
             "StartDate": "14-10-2021"
         }
     ],
+    
     "rockets": [
     {
         "Id": 1,
