@@ -1,4 +1,21 @@
 {
+    "sources": [
+        {
+            "Id": 1,
+            "Name": "Węgiel",
+            "CostPerUnit": 4.20
+        },
+         {
+            "Id": 2,
+            "Name": "Lit",
+            "CostPerUnit": 2.45
+        },
+         {
+            "Id": 3,
+            "Name": "Uran",
+            "CostPerUnit": 3.10
+        }
+    ],
     "orders": [
         {
             "Id": 1,
